@@ -1,0 +1,3 @@
+title=flappy bird
+author=paul
+orientation=landscape
